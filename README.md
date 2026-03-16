@@ -6,6 +6,7 @@ Repository for my LeetCode problem solutions and data structures &amp; algorithm
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/ravikanthisaisaketh-alt/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ravikanthisaisaketh-alt/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/ravikanthisaisaketh-alt/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/ravikanthisaisaketh-alt/leetcode/tree/main/0283-move-zeroes/) | Easy |
@@ -19,4 +20,8 @@ Repository for my LeetCode problem solutions and data structures &amp; algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/ravikanthisaisaketh-alt/leetcode/tree/main/0189-rotate-array/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/ravikanthisaisaketh-alt/leetcode/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
