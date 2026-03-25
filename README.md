@@ -10,6 +10,7 @@ Repository for my LeetCode problem solutions and data structures &amp; algorithm
 | [0011-container-with-most-water](https://github.com/ravikanthisaisaketh-alt/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ravikanthisaisaketh-alt/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/ravikanthisaisaketh-alt/leetcode/tree/main/0027-remove-element/) | Easy |
+| [0053-maximum-subarray](https://github.com/ravikanthisaisaketh-alt/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/ravikanthisaisaketh-alt/leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0189-rotate-array](https://github.com/ravikanthisaisaketh-alt/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/ravikanthisaisaketh-alt/leetcode/tree/main/0283-move-zeroes/) | Easy |
@@ -48,4 +49,12 @@ Repository for my LeetCode problem solutions and data structures &amp; algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ravikanthisaisaketh-alt/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/ravikanthisaisaketh-alt/leetcode/tree/main/0053-maximum-subarray/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/ravikanthisaisaketh-alt/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
