@@ -38,6 +38,7 @@ Repository for my LeetCode problem solutions and data structures &amp; algorithm
 | [0009-palindrome-number](https://github.com/ravikanthisaisaketh-alt/leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/ravikanthisaisaketh-alt/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/ravikanthisaisaketh-alt/leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0509-fibonacci-number](https://github.com/ravikanthisaisaketh-alt/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,6 +60,7 @@ Repository for my LeetCode problem solutions and data structures &amp; algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ravikanthisaisaketh-alt/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0509-fibonacci-number](https://github.com/ravikanthisaisaketh-alt/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,6 +70,7 @@ Repository for my LeetCode problem solutions and data structures &amp; algorithm
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/ravikanthisaisaketh-alt/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ravikanthisaisaketh-alt/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0509-fibonacci-number](https://github.com/ravikanthisaisaketh-alt/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,4 +82,8 @@ Repository for my LeetCode problem solutions and data structures &amp; algorithm
 | [0048-rotate-image](https://github.com/ravikanthisaisaketh-alt/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/ravikanthisaisaketh-alt/leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/ravikanthisaisaketh-alt/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/ravikanthisaisaketh-alt/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
