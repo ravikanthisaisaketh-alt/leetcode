@@ -102,6 +102,7 @@ Repository for my LeetCode problem solutions and data structures &amp; algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ravikanthisaisaketh-alt/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/ravikanthisaisaketh-alt/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,4 +111,8 @@ Repository for my LeetCode problem solutions and data structures &amp; algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/ravikanthisaisaketh-alt/leetcode/tree/main/0229-majority-element-ii/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/ravikanthisaisaketh-alt/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 <!---LeetCode Topics End-->
